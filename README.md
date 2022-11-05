@@ -9,10 +9,6 @@
 
 -- Python3
 
-```
-python3 -m pip install --upgrade build
-```
-
 ### How do I start to fiht? ###
 
 * Install Dependencies
