@@ -27,6 +27,11 @@ pip3 install -r requirements.txt
  python3 pokemon_fight.py <Pokemon1> <Pokemon2>
 ```
 
+-- Help
+```
+python3 pokemon_fight.py --help 
+```
+
 ### Repositories manage ###
 
 -- Pokemon Lists
